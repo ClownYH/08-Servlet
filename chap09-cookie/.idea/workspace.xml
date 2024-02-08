@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01633efe-e34c-4ddf-98b5-f493bf041730" name="Changes" comment="" />
+    <list default="true" id="01633efe-e34c-4ddf-98b5-f493bf041730" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../chap01-life-cycle/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-life-cycle/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-life-cycle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-life-cycle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-service-method/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-service-method/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-service-method/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-service-method/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-request/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-request/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-request/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-request/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05-response/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05-response/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05-response/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05-response/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06-exception-handler/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-exception-handler/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07-forward/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-forward/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07-forward/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-forward/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08-redirect/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-redirect/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08-redirect/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-redirect/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08-redirect/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08-redirect/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +50,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2YkJyFuPWgOjxsTpMaJti4QpMSe" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -44,6 +65,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/dev/08-Servlet/chap10-session",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -229,6 +252,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701063901980</updated>
       <workItem from="1701063902956" duration="2958000" />
+      <workItem from="1701778200150" duration="277000" />
     </task>
     <servers />
   </component>
